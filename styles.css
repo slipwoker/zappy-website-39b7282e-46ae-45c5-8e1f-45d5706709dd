@@ -178,8 +178,8 @@
   --gradient-light-section: linear-gradient(180deg, #F2F0ED 0%, #E8E8E4 100%);
   --gradient-overlay-light: linear-gradient(180deg, rgba(242,240,237,0) 0%, rgba(242,240,237,0.95) 100%);
 
-  --heading-font: 'Lato', sans-serif;
-  --font-heading: 'Lato', sans-serif;
+  --heading-font: 'Righteous', sans-serif;
+  --font-heading: 'Righteous', sans-serif;
   --body-font: 'Righteous', sans-serif;
   --font-family: 'Righteous', sans-serif;
   --font-primary: 'Righteous', sans-serif;
@@ -256,7 +256,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Righteous', sans-serif;
   color: var(--text-dark);
   font-weight: 700;
   letter-spacing: -0.01em;
@@ -2567,7 +2567,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* ── H1 ── */
 .index-hero-section .index-hero-h1 {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 3.6rem;
   font-weight: 900;
   letter-spacing: -0.01em;
@@ -2591,7 +2591,7 @@ html[dir="rtl"] .footer-contact li > a { flex-direction: row !important; }
 
 /* ── Subtitle (h3) ── */
 .index-hero-section .index-hero-subtitle {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Righteous', sans-serif;
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.75;
